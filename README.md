@@ -1,12 +1,14 @@
-# Hi there! 👋 I'm [M.Yasser Adha]
+# Hi there! 👋 I'm **M.Yasser Adha**
 
-I'm a passionate as a [Web Developer] for [MERN Stack, Javascript, PHP, Laravel, etc.]. Welcome to my GitHub profile!
+I'm a passionate as a **Web Developer** for MERN Stack, Javascript, PHP, Laravel, etc. Welcome to my GitHub profile!
 
-🌱 **Currently Learning:** [NextJS, Golang, Mobile Development]
+🌱 **Currently Learning:** NextJS, Golang, Mobile Development
 
-🚀 **Goals for 2023:**
+🚀 **Goals for 2024:**
 - Contribute to more open-source projects
-- Learn [NextJS]
+- Mastering Web Frameworks (NextJS, Laravel, Spring Boot)
+- Mastering Web Libraries (ReactJS)
+- Developing Mobile Apps
 
 ## 📈 GitHub Stats
 
