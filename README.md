@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋 I'm [M.Yasser Adha]
 
-<!--
-**yadha18/yadha18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate as a [Web Developer] for [MERN Stack, Javascript, PHP, Laravel, etc.]. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🌱 **Currently Learning:** [NextJS, Golang, Mobile Development]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Goals for 2023:**
+- Contribute to more open-source projects
+- Learn [NextJS]
+
+## 📈 GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadha18&count_private=true&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/yadha18)
+
+## 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-yasser-adha/)
+- [Instagram](https://instagram.com/yasseradha/)
+- [Portfolio Website](portfolio-website-yasser.vercel.app)
+
+Feel free to explore my repositories and reach out to me. Let's collaborate and build amazing things together! 🚀
