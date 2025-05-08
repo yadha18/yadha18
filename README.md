@@ -4,7 +4,7 @@ I'm a passionate as a **Web Developer** for MERN Stack, Javascript, PHP, Laravel
 
 🌱 **Currently Learning:** NextJS, Golang, Mobile Development
 
-🚀 **Goals for 2024:**
+🚀 **Goals for 2025:**
 - Contribute to more open-source projects
 - Mastering Web Frameworks (NextJS, Laravel, Spring Boot)
 - Mastering Web Libraries (ReactJS)
